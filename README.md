@@ -1,2 +1,2 @@
 # BeerPongScoreboard
-A project created for fun writen on C# MVC5, Gliwice/2017
+A project created for fun, a scoreboard for beerpong contest of ours, written in C# MVC5, Gliwice/2017
